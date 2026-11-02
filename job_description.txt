@@ -1,0 +1,5 @@
+
+We are looking for a Python Developer.
+
+Required Skills:
+Python, FastAPI, Django, AWS, PostgreSQL, Docker, Kubernetes
